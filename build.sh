@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t zinthose/thingproxy .
+docker build -t PierreLannoy/thingproxy .
